@@ -1,9 +1,11 @@
-package com.challdoit.waitingmap;
+package com.challdoit.waitingmap.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.challdoit.waitingmap.R;
 
 
 public class MainActivity extends Activity {
