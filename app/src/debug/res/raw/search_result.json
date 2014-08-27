@@ -1,0 +1,556 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7AAAAAGqnnRc8TnJHjdgcWnORMINHu13_pM79IGMzRr4AJvO1Qd3OH3TDdImKyuIXxohFickukbGOt58nSkY102p1x6rX8FgZfdAwIPrfBj6AmB6c48LkN8NfpgAVb4HtL2M6lXwGmfMjDNOCOqIALNlmZjVnuBnUbPCEQnG76h2XizMaK2XYVW-yAV6f0dh1-AWz_ZeR-FO-oyrFZYs4qP500eUaRYXKKxaF2B8VKzSlHxTcZC-grbX0962cdb2QrkTjd6kr4BABHEjI2tNkd1Q6Zt3QAti6FdZ8qivrhCdp0Gv7bNqieHx_iX1KfPqTfpb9hIQRJKatT_RU-kgDDuAcELtpBoUBt19fXSmiTzABRaAnSAUc_sfq8o",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7815533,
+               "lng" : -122.4156427
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7828015,
+                  "lng" : -122.4125167
+               },
+               "southwest" : {
+                  "lat" : 37.772905,
+                  "lng" : -122.4231987
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "b7fa5ebba26a10513d18e1fd50628f082ffbd1a2",
+         "name" : "Civic Center",
+         "place_id" : "ChIJ3eJWtI6AhYAR2ovTWatCF8s",
+         "reference" : "CpQBkAAAAMR2M-W3K8fQa9sQr1j9fIlymqH69bOCPFFo6JdLMtnXl6gx09LlmRzYz6D6mnKe0Nd3I7bk7r-XCORVJRP2FLUYR0523g1YkZyVnWkAu14FHfYrhAHcUmkNwSHTOYB9-I3zJHp-mg9OAevM_C6tFTG7A5NjGeoBQyPrDSr_JaOHBmU0qzmlBUrlsTwcj2doNBIQKfpNVsAZ_4Md2vbSjd3YmhoUPVN75MhLts5MEJqciZSVjrvsbqg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.792461,
+               "lng" : -122.410086
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a9dbcfebeadf2c2e488dd47116305abb181a0cbb",
+         "name" : "The Fairmont San Francisco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAaX1hqRNkJ58MrGJxnVDbgKRGACag8CBfCMePb7Ml54GnUzo9Vf9jqACVEWwHx7VIhNZx0mvjOZnH43Pl8iEZN3A164tXYH3DPLz2fDxbD0eyA-LAJR7gBsUS8I7y7zAwo-VaUsytI0bUZuzJFq-UvxIQT22zy06FYbLvxKmlJy3oFRoUES_et_qBMaLJA7nFK0gUKcQtt-8",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJN2S4EI2AhYAR9J4Qeh1U8Aw",
+         "rating" : 4.2,
+         "reference" : "CoQBfAAAAFxYBGr7ICdenaW9Err9GU9sIdWuhl_nxdRjZlBCmsNJRNUMeUacfLI5-4x0hAXb65hGk4cEG5N_C9RZMYA7yY1JCMBmBRdj49VUstYCpGImB-WPmUpe1H43TjhzRKuMSaHSO379hc2wppTyzEBmn6vFYJtAq-AYGkZZYHxY8zoQEhDfGvDZhwyr4gdF81sY86MNGhSNhAaguN622-t4cto1EOzuQG2q8w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "950 Mason St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.78496,
+               "lng" : -122.404225
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f007d2f91c0070ebdfec60275baa33623f0b771b",
+         "name" : "San Francisco Marriott Marquis",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAULPFrbYsgBQMKv2VLffnSDlBdDSgLR7hoSCsk-2uclIAER8QAeZlnQ13GAyD-jvzIFZOIG7Sg_VHkxyjMR42Iu7pol4ZMSamfwg4FNNc0hO6Dr11Z5p_LfwWeXqfLbUc1Dk1FigLGqyxA3zGffDm_xIQDRwRrICUylNmVWOcZdY33BoUTpeJ-HryYU1o_ZojOC-8OLLglMc",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJcT5nNoaAhYARVdbyW3zPwus",
+         "rating" : 3.9,
+         "reference" : "CpQBgQAAAB6gQAkOJ6gymh1CxUCMQ1zynfNUJeDJ22RUUgVXZXaqfPOQ0BEhfzFJHTON5emG8RxZF3sJY3E2TtjKrKmcu8pfe9dFig0oFPPt0ncRxf1IgoY8XEjhcSvXnNR5dK3v1g-sOYf_qLuCl0yPfpPj8qGkX88EDYw3F8iucxOycwurchpWkuX-kpmR1a0fUhR_vxIQdgxA-8P-Iyhlq3v_hX78uRoU8BqiwRa4HKhOKy7xQGAlJj6C2U8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "780 Mission St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.787969,
+               "lng" : -122.40194
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f62741e305ade8cf3fab5b364cd7aafb1ce89f58",
+         "name" : "Palace Hotel, San Francisco",
+         "photos" : [
+            {
+               "height" : 230,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAAbyguyJMne83pKV_HNQMnhih9A2GEm9wCY_hHCt8tE4u7GgV8ByvO7pbbVhJJDkRD23EywEPmXSKLL4ZA4LSbNLos8lm_3SLWSxLQCBjgY7iL4We5iAs_YB-F0u3xyooY0pbIWoJgX9FbIEmZK5GEBIQSc_lkGEzjEKzhPD9HzCo_hoUQ0bnM5LJ2Bq751Luk0I1-BUlcXY",
+               "width" : 343
+            }
+         ],
+         "place_id" : "ChIJ150MH4iAhYARy399PwjhCb4",
+         "rating" : 4,
+         "reference" : "CoQBfgAAANV29d2Im1D7-gnoDCqyc1lL2xNDeAzM7rO5BawLEnJAkc9CRK31SUdtdHdLY8B4utcCokRy80bmun4sftAUlfssnIiRFDi-lIOp5uWVV0qMqzAV5sfum7ref1aFQVjUuRU4SvC3vZV7O-q6oPki-XNNqE8nqJQiKeW9Cpd4FcieEhA07lcBCFRDe16YJHXOyPNpGhQCLoqwzJ5P91ULJ2ZkGXsw0E3hPg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "2 New Montgomery St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.785628,
+               "lng" : -122.410385
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "aaf2a7c4b9188218ab8dcb935cad388ab21ca4ab",
+         "name" : "Hilton San Francisco Union Square",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAprZBIvYNQk7-LD8OAHyDv9n8mazrRrIEf8QHtoI5GxWJO8VNO58QTSj-KpPrVyMENuYndc9fwPxDLZjgeVoFa2CGKZaHg0EBIE7M7hPVLW6BJzD5yp2BEi-SI46gsg7DfHOeHx6rRmgPuWighfRjJRIQtOpab-IYNm_cRan_-zm6nBoUSwBL6IiIADj8DH2mWj9zTfAVCRo",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJeSJHoI-AhYARembxZUVcNEk",
+         "rating" : 3.8,
+         "reference" : "CpQBgwAAACh4e6LRLkgO_GrRXIBq5eEHxpJKRelzeYJpQNsOI6znSi2BBjNNw6RPyy73QddcVcO6toHTNDGzhKU37uQWo_AU9B9JropNjuYh3zJwAbaIVKbZLeO9zt6N9D8PHgUXNs5ephlwT70Gmau8mzUO4bw-2W74VFugD1iPk2n4ww0JxkxDTNwstv4ySKZ2ks0iYxIQF8NEXReqZXURvun59XnNMxoU7ZGI3JN0lqZ3U2S9bjXvs--ohnI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "333 O'Farrell St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.779282,
+               "lng" : -122.415858
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "b1c83827c82c9fa59ffcdad652d1e8a1b04a4ae8",
+         "name" : "San Francisco Public Library",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 132,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASZRIQFeJ-dBVQu3j3RolEV0P1oG-scOOE_7MqxJCqjZtNGSFexMIifY9EEyKHUOUSULlkbunDOswEU9mVZTJvCjignQdsisPlqBD2Qh8l2aBRloR4GiTl5_WjOtda8VtehxCucRenXSgohleB_RGOhIQ0rwy0hzxDBArCPgY0zFLdRoU9SCSX2t1UCQJbZEv7wRH48_M2hA",
+               "width" : 212
+            }
+         ],
+         "place_id" : "ChIJd2spnJuAhYARhkuvhLCp3us",
+         "rating" : 4.2,
+         "reference" : "CoQBfwAAAM_iI4Lp72vbw-y1i7Ky9TyzxefnzpmCJLftFntcqZRpMXrMdq-fRfIvJrJY4iWEJHSqXGZ0x00Ja1O70HjLwmg9BymhMWyqHLqmAbEkQmJ6oEeHoIk-Kqttf-RAd7vCpuojLcr77N_J9IIzIhHHzUMVj1NuPsUFDZ9zLz8uplSCEhBWLUzKqYH3jcsdsXtar3bdGhSJvLTESS0dCIBxKotqLfZa8QhScg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "100 Larkin St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.784143,
+               "lng" : -122.407361
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "25d4bf0577c1d6e6c1ad6372dca5c4efaa5d74da",
+         "name" : "Westfield San Francisco Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 448,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAASJ2t65seEWXMLljYUHoFkXYRo_ciMKDDuo4wboEfdSyx4qySOSw2i8_N7EdCr74TcChgabOK-5OyVy6zW8KszzF_DiSlZiuG_K1RiwKug3T0-tzbxBamw7lK3sOtd88t3rMrVuUOdO2SaZ55jKx7uhIQhOM3_CyR770aqdUyyouuoRoUbo8ZXo4KJ1ooDYxCzeV1kxSmlgo",
+               "width" : 336
+            }
+         ],
+         "place_id" : "ChIJ6zMe3oWAhYARaZ33Z1BAMRo",
+         "rating" : 3.9,
+         "reference" : "CoQBgAAAABc_LtABAsjzQShGAse5_FouWTTInu3s-QR_0c9b7TldGQc7Eaj6822Tq5BsYnqJoCdDpm9K-wNWmUEvMQT2qbyBEeeCqCXvSJbqtd8PtPTFSbXV12lZoEIbegHJBAQkRx6sjIC0R-5Z3iWEdiY5lj1u2JLSyupdtu57-IcDIy0OEhCZm8DGF_MdRHU6iI4XD58SGhTM9U60Vaooq1ZRr61B7AmEFqt4tg",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "establishment" ],
+         "vicinity" : "865 Market St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.787994,
+               "lng" : -122.407437
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b49a3811f38d6725cd7f95b00b4f03593c62b5de",
+         "name" : "Union Square",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 776,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcwAAALlPQOwY-6J7q6SOCgzD1AVKbHMDVqYDVMInC1v-bkuNhqy6GjLDMr4dHQVsln1wplbFqbku4PmPz3jtRURMWjUYzdFY1rc68J2bgPuhFnswWVpLZ1K8StuTToAT8TciOvoaWmqA-In7wukOZ_zL7BlYrbZvHekVWwARtEzbZTkuEhBO7cB01Xsr7Y-4FZQujzU_GhRUOetbCU0ffJT8LTeBAvwQpz_bpg",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJJ6m71o6AhYARiUxigIz3gLw",
+         "price_level" : 0,
+         "rating" : 3.8,
+         "reference" : "CnRvAAAAy45U-ByqoJS5gQHscLQX-zYfEkfGjTXG-1ZoSGz7j0biI7k7J0ZBALRqll09FgfLlb4xVIaJAF1isxXgAM_qRL8WAAP-W9GSYmJ-6X82J0zaa8eTE47c77WuXKV75aoksTFIb_-hI853K6lF3w8m-RIQBm7rRlvjB9a8iikTxFj5HhoUR52qL8MbDY3exwmvzNmVV0sX4UY",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "333 Post St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.782113,
+               "lng" : -122.404476
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fbbcc1bcbf1916a9743f8f85cb98e561ae75c701",
+         "name" : "InterContinental San Francisco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_wfmquplXiulj7FbH5epxk5NfVweAc9ZQ4ylj5h7PYNOkY1XPqxQ_IetM0o-YizZZWuf1wPcx1uUyrBa_HJM9euk7LSdcvo1rUwclPYzGwLhs0ZbXJoh6fFBbcKPQm-AiS7Y246Uqv5fkxOeebGAAxIQuVckwOBiswIwY577XagwixoUQlns_VyWWWuV8sHmXRAwbs0bMVE",
+               "width" : 864
+            }
+         ],
+         "place_id" : "ChIJF1lX2oaAhYARuyWPqjE12Oo",
+         "rating" : 4.2,
+         "reference" : "CpQBgQAAAIHTlLJQtvm3bZaX2a9Pvu0svl-TYlC9QX6U-zzAG6vbuOcDptTL7e3CAL-9xyLPed13-LD-cUhl1wsIsNTtb8JEUSA0YoWi_dR7pMVOkmVgLzLEN25r_ZpxFlKoi5iRVZrhd-IRj5TIqleqVpIsg8Jqvyr-SroRdMaMp04gjN9Vs1OFk1zx3BGzJ40GyV05YhIQEKWfCdC8VECiQ0zYLV50oBoUKtB9rCoO4J4Zru-4lG4xz3mSfEU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "888 Howard St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.792473,
+               "lng" : -122.400849
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1510df9f57c01cde7df28a3ea3f78103425c747c",
+         "name" : "Mandarin Oriental, San Francisco",
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAC_PR78O23rfaMsmp1Nb-YbNEytUsV5yCYmXxBwsqhXoiACwQipHHSzAE3F_WYqvrFpjAZiSLa14iQ1fDuaeUyDxDEsK7pLwFt1OFxSUHIgz5oWWF8TYDbSKkc8GgIcAjmXPl6R6v2dHHOTpW3hEz8BIQoUKnkpM420IwhqFk_Tjr3xoUKAK2E8HPz2ou3-uc-UuO_MCyj8U",
+               "width" : 666
+            }
+         ],
+         "place_id" : "ChIJayIY-mGAhYAR88Wl8R0Hroo",
+         "rating" : 4.7,
+         "reference" : "CpQBgwAAAKVmS9WQgzO0Tg2WapHHJu6xRvKO98tUb8tm1Ica8NH47YaZbxSW9nTQunSR5-abCNgsJeicgJ5UV9JUmL5IXNladnNFWuB9Ni1cOgfFuUeq0nf4ZjB6N-uEkoJmyIiFaeGg5jv-DkWBzP-j7EnAvwSS3sVTOinCVXmk4JHGHc0u0xmrn2dspEQJVXGv5yjIyxIQZdL61ziyIZj8edaQy0gUBRoUQoXblja-QWEhuQ9TfAn45FUav9w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "222 Sansome St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.787564,
+               "lng" : -122.408736
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "eaba9efd25115cc1f7d5a12953feb120a1380a64",
+         "name" : "The Westin St. Francis San Francisco on Union Square",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 230,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAbkUShmEFKPMeUGSOt4uu-b2WQ9iXwgoZYKBULYfri1BFN2aQZubobu9dweOwUpI63aURG8GBOlzJaAzihtG8CA86MRb-F9wRys67Et7OZi2te-jE34RjAwfFIMr06cNrmcIy-qLadBjFsPz8v-LlJxIQdI9ypWgNMyjo54cRjYNoixoUGV-GStcCiG6Nxr9XaOx24_feJTg",
+               "width" : 343
+            }
+         ],
+         "place_id" : "ChIJi1J5_0ojh1QRSEAyfPSzO94",
+         "rating" : 3.8,
+         "reference" : "CqQBmAAAAO-c4XzuOmHeGjnX_Tfh8x7Ggc7vx5eheMRB1EMvezxEp6Qt-IXo3FFHlYDGEaDH1rUUWIkGen-8nJReBeVUlX7q5lWzxnVFQjIrJLlYmWBwbIx6PNLKWXY25HgqtrkKevAzYlyhVDyLY52n-5CJmJNlsqczqv1zfoRaiMWLeDLUpmiqtLnkLOGWh_k5fPvQ8co_fliFXO1zQ7Y_J1NRrAMSECu6h2iN_IRtFUoFNvgwUHAaFPSojYR__fizUemA5WG4IsnbEhzH",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "335 Powell St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.794754,
+               "lng" : -122.400527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ff74f965193451a63947701e8585e0120dcebedb",
+         "name" : "Le Méridien San Francisco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1097,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAH4JAYbUxKO3D8OQXrPWvXbSvP8PaDk6zLQmZ81q8XeDh7OyyZaF_GodBwMvOmKSmYNl9pfPAxuDSOQChZvdQ3jDOXNIUH_F4SQeUvXF4xUw1lBst4IehrfNaW61AAWftjGp2QSY3K7wW_C2TkK_-WhIQnSwksxeI8FxqtWzwUiurShoURb2GS_1k1faLJewLTVNoQ7nJOHU",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJcWfgM2CAhYARD19rCAPLhVU",
+         "rating" : 3.8,
+         "reference" : "CoQBfAAAAODfdk0BdS_PwfK7PVtPTcWqYMTr14yTZf7hxDMuRGGblUxq2AMsOb7wbXwEyIXdX_KPP1Lu6kDxMkgWft-DPOawbz7JXZOYr0dP6eO_rBoln1It8BpshMAQs60rnAks0dyXo4yX_POd0cLikq2bHL5FSuEhPjAoJD8p6qqt0emBEhBmP4ZNOy0sOy2yaOdLXN27GhT7snpFf66_QsAheg1K8b3yydvqPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "333 Battery St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.792073,
+               "lng" : -122.413418
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "779c0d02a3081a20b6a847fc2966989cf576a00b",
+         "name" : "Grace Cathedral",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 145,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAY19anhmG7bYom9tQ3vQLQyW952EdMn3MHZ0v8Xoi9zcMNyjuR3PycuIJTrsARASwXSfB0Q0M3vclv1WpjroM1YFjyOzYRY1aDS0JBzY1JGoGjTafqM9fo0d5IUPR9vM4FHPy6plfcKYPvCMIEUyeeBIQFDp-GxfJOmcPgZ-OstAUuhoU2nrafwhz_sF5-DuXjBnGlSyYkhY",
+               "width" : 144
+            }
+         ],
+         "place_id" : "ChIJg2Kun5KAhYARg0g3AF1jbQQ",
+         "rating" : 4.2,
+         "reference" : "CoQBcQAAAGT-R6bdwP_PXnwoVZHwRsmosnslYQPTV06L7lz2RXgINZ6fOn5w1PJEnyfKQ3rxl5HYnoV1biAzY7KoUWToDrLZfXAu79YQkx5wccrekUYCe6kvpUIjQQqV3WEfz44mHFqVhN427u9sxIBXuyrBTVLVpRY-CI5Gt6Hx7DeRamlvEhDVfs1tn80rxWG6p0TlFtt2GhRiArXEaiZ-ZtG523-N0svEBmFdtg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1100 California St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.785094,
+               "lng" : -122.40274
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "caa054208dbc19c6a4d6d3b0a70b9488bd0c2290",
+         "name" : "Yerba Buena Gardens",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 431,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAOu_YnPLewmBFzebvHQvvjsfDUoqN7fLm1-K6unz_HXLTJ6uXK8IUvTEoWnX8AHeeYxe6aYcZiRAfGSdIfb0tXH8Z9SCjlKZ6hWJTiSbTJDZ3sz1bDu-dLASO4F03WKLlCVwUlmDO0Gx5jXaEq_0YJcdNOmeselhqEQ9j2B3a78iEhCarIUECoRoMTtyBbbgr4C3GhTwf8cevNtvPwSZMs9XEtSdfkjrpA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJCUsDnIeAhYARWCBpPTrHJpQ",
+         "rating" : 4.4,
+         "reference" : "CoQBdgAAAL8PFSUWLBMdlYs24k9VMcUTE4q1omn_a8ZLLuGx6dXljbi1FiwwclcSOdbivOHjcdTbdWfZAmnSgViu5Nneymq5hxUzSRUK8v_jljamFDBhZPEKwU98zkei4ON7Dp2mNUtvvIHsoTW89HfghK4MicxndFqseAi9gAVgvgDpHiMBEhCK4KOE5s0-Xj8WR0YSpJieGhQvSSUev3XExXMDtiaRnXr7A-LFkg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "750 Howard St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.78418,
+               "lng" : -122.40361
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4b2b09fd9203dbad9c8d364296ec5843c698f244",
+         "name" : "Metreon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAFReHLwVHelfhDMb9ZnpF7b-8ItqQN1JJ3FcjYKGvtr0vuQnr1fdHyY276rbSGTvu25-xurgw7rrdlhBMkkKjPZlnoyijrE98Aocu3HGP8nzo0zDfnrECbPgQQGz9WuQvytUzGGCOKIhck7190_O6rxIQ0Hgdu1l3aX8wPPfumxMIcBoUP3rpEioXTp7ULtv_AN7mCRiJat8",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ-zhtDYeAhYAREh_HF8J91xQ",
+         "rating" : 3.6,
+         "reference" : "CnRpAAAARqVrW4iveHEE1pYFUv0zvfDCDovZVO_wjBqMiPsWDVMK7exZmaz7f6b25U0JRB2nIsjodVUpmq2bKjfOUnBkqTTskckPPL0H3Ni3RuZ1x3nrKkyC1RE9xQg4pUawl_qNp4SQUyKk3gcmlC3satMtxhIQKjMmm9OkAN90l4bt6MNvkBoU1CGXcrvZtuH2Hke4_H-AFiC13mM",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "establishment" ],
+         "vicinity" : "135 4th St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.786737,
+               "lng" : -122.411258
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3344890deedcb97b1c2d64814f92a02510ba39c8",
+         "name" : "Clift San Francisco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBnAAAAL7wAcrTpr3vHoAajfwGQqnSEHZ3gKwq4Dm3kn6tjUr8tGakQ6o31kEj1vNpvNnwfGjN19JYl-gOkfBGJzdcaP_--WxG7vvIK5vWR3k_GyeL8vmGeKSlhhqMOFL9PxKJ_7K7nt3M0-eAh2yzFdh6ONvfMqBpUUbG55eg__81-qgZuwgjk8q83-i8VppV4E0ETWiEL2R4Ng5FTH4klTDXvnISEDAT27zrMz7LjUaL5PUAiJ0aFNqdgpzRrQ8sfQNCh1L4YnryFc-A",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJFUBxSY6AhYARwOaLV7TsLjw",
+         "price_level" : 4,
+         "rating" : 3.9,
+         "reference" : "CoQBdQAAAFfd-94y5WvCEmo-6GjcuPXvdXiIVv-NKdKnufgNXRa8S2auRSDnlJJ024_trHke2ShvrGy8VeTRBUB2Aww98ZAT4yusFIjiUlqFpLN_b5RDQY0ma05N1QMH8nLljqcvNk8okY-SuahxOvt5oGBFoKh9ot2R-QmionN3qZda1AskEhAyrbbKY7HOz_Cy5JIpQ0wfGhSRRNqLkVu8wvUZX-7SV0AbfaoSyw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "495 Geary St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.79482,
+               "lng" : -122.397887
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cf764964ad6670da8d9a3c3e0a9e09d0dfbd5410",
+         "name" : "Embarcadero Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdQAAAGdxpd_zjpmuCCaaAlb5qte6J63WilkCrSMiHte-m10f-UJG-kOLj2Dc69lA9fza27pPy4Po8pzZEA3_DJOau3xKrhKauM9p1w6UogwLEQc9dIu_UFAFO7GeDir83z8tNwBlQQoy--l4MKryaWWKZO-IKZLSSqq9hSunqEtpmJlnEhBTJsdVWnJ6J2S1faLWRJPgGhS1tG-7AY71AubqVEM7gD1gmG6ukA",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJG4kUEWGAhYARtQwQFYlJCio",
+         "rating" : 3.7,
+         "reference" : "CoQBdAAAAK_-BFPGyXH6yscE8mCChEh8jJQY0oH2lY6M-Zq1ap3DJFh8pEutjIYwviIrM6ajRhojlQOP0VmR_Pgjn7i8ZZ-aMdt8EAcYSrPMwD434qvfs5Pj1bVFg6HkSe7_jjp35Uh_EYE71PUzDiKpMJiV3JI_HePmxMHU9cFsIiWApovkEhCjLkDdo7he1f-Ks8S6HuHWGhTSCzcehh16gHchBjYOaokOIeeCsA",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "establishment" ],
+         "vicinity" : "4 Embarcadero Center, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.780264,
+               "lng" : -122.416384
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "af74a79530a92f6a069a8264135a0b1f1b07c090",
+         "name" : "Asian Art Museum",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 554,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhsc_wb24I16lg5pDhlquJU_f68y3RCP6Z6iStnVTH8g66yhUU9-G6u3zeRnBnriG8DZeFMZPE0ojm33fK8kJ-YuGJP59RgpPW4erssk46ITpX2Kt8WZ_rR23n0IQMF457hECoVDiKXZZ0HSDClnsLhIQ7gFNnCNx5tyI24Ch78DjxBoU0Zh6T-Oc9cUyYLwq6r_v2_3rclY",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJkQQVTZqAhYARHxPt2iJkm1Q",
+         "rating" : 4,
+         "reference" : "CoQBcgAAAEQR3u4BUsOVQWWFE6ImaXReMxvP6LfKdqnrJVUBKjD3l6bwnf0TD6Z1qsZu5FydkdXAy-YILMm-e1BuAKeN3a9hz6G_FDw0wn8qLGCXmhlSO2T3IYVouiMn7T6husTCRRGNp8XgRzc0pHMcDpGIejL6SXFoUM4tAtqLmOzyEA2AEhAhuDt9vy8-QspcG50VLAS4GhR8dRUi-awOgJ989491Z1RgDdIzaw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "200 Larkin St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.78839,
+               "lng" : -122.41066
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bb43b2daaf9ef2767048184a38da1f8b3e5e2b01",
+         "name" : "JW Marriott San Francisco Union Square",
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAA-zsKUjhSal45KojyVIDiOFNXNRZrZfFMPaXMyPN84ufpeF18Vq2Gp-5Ze3SZ8Mo7pbigvBuOeIhfvy5wMnTvt4mtlTeTiqptUTUUDuKUFDbuwgXRwJqy7OWEoum9c_IUqzMVYn1m0HntxNXrLgjiLRIQ-RimkoKLAXwFLyMunL5koBoUPLAmal6k7nNYoLGUi5Jpc6wFEC4",
+               "width" : 610
+            }
+         ],
+         "place_id" : "ChIJrbjkZo6AhYARZpLDu1Jr2A8",
+         "rating" : 4.1,
+         "reference" : "CpQBiAAAAGDpSZMyzBn_nm5nZE9O0rd-pmoJ_J_a8XLABOUbOfpPV5JzAGLYjVvvY1nxSGK0khVxNdBrRdbZHuKRVJNbzRMhT3-8W9ABVYNxcXkH3EHvlUyvyIEA1xtGjBfC_Cnloh-kAFmfFSOowra3X4sn6-wmV5r_PRg5S5D82TKl-kCtjkzbaYmJCq2Krjg7HWS_HBIQ9BJktm0J5o08yWxsRWDYXBoUDH5aYUEpoMesW5cparWnN9c88lI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "515 Mason St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7889945,
+               "lng" : -122.4109272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7920497,
+                  "lng" : -122.4082494
+               },
+               "southwest" : {
+                  "lat" : 37.7861189,
+                  "lng" : -122.4190664
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f9ed1e059b7174af2116f30fbbab9c3af902c625",
+         "name" : "Lower Nob Hill",
+         "place_id" : "ChIJlyl8-o2AhYARNz4ZIYubsnM",
+         "reference" : "CqQBkwAAAHT6IlWkLh2huuHouSir4qX_ZvFazGm51cCy-w67wKEB73qCQzBi_50gQCzYa704B01vbPVi8igLDzLn9CwXpHXCuYgKQqKUl3MdtA00x-vdYPgLsZfNkSBzbBNBh1L8uQPLM2mZi8o-FKwzURZPYShV8CAXTPKYOHmq4DVD8dburbKrD_qWtV4lYuUM7uG4MfI7H4y8ZzlV4-G6Ysn0u7cSEHBE69XzbhdtQDMpqIQSLG0aFP4MEkwollgJ5RYWoNYEdyH1RdP_",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "San Francisco"
+      }
+   ],
+   "status" : "OK"
+}

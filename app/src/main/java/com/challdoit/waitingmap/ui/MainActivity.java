@@ -2,6 +2,7 @@ package com.challdoit.waitingmap.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
@@ -10,10 +11,12 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
-import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.challdoit.waitingmap.R;
+import com.challdoit.waitingmap.model.places.PlacesResult;
+import com.challdoit.waitingmap.toolbox.GsonRequest;
 import com.challdoit.waitingmap.toolbox.OkHttpStack;
+import com.google.gson.Gson;
 
 
 public class MainActivity extends Activity {
@@ -27,24 +30,28 @@ public class MainActivity extends Activity {
         final TextView mTextView = (TextView) findViewById(R.id.text);
 
         RequestQueue queue = Volley.newRequestQueue(this, new OkHttpStack());
-        String url = "http://www.google.com";
+        String url = "https://maps.googleapis.com/maps/api/place/search/json?location=37.787930,-122.4074990&radius=1000&key=AIzaSyAIBj9MLDPgKUfPaX7Ci4EJBnYaSpNHhUQ";
+//
+        final Gson gson = new Gson();
 
         // Request a string response from the provided URL.
-        StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
-                new Response.Listener<String>() {
-                    @Override
-                    public void onResponse(String response) {
-                        // Display the first 500 characters of the response string.
-                        mTextView.setText("Response is: " + response.substring(0, 500));
-                    }
-                }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                mTextView.setText("That didn't work!");
-            }
-        });
+//        GsonRequest<PlacesResult> stringRequest = new GsonRequest<PlacesResult>(Request.Method.GET, url,
+//                PlacesResult.class, null, null,
+//                new Response.Listener<PlacesResult>() {
+//                    @Override
+//                    public void onResponse(PlacesResult response) {
+//                        // Display the first 500 characters of the response string.
+//                        mTextView.setText("Response is: " + response);
+//                        Log.d("Place name", response.results.get(0).name);
+//                    }
+//                }, new Response.ErrorListener() {
+//            @Override
+//            public void onErrorResponse(VolleyError error) {
+//                mTextView.setText("That didn't work!");
+//            }
+//        });
         // Add the request to the RequestQueue.
-        queue.add(stringRequest);
+        //queue.add(stringRequest);
 
     }
 
